@@ -1,0 +1,4 @@
+fancy
+=====
+
+Example
